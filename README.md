@@ -1,3 +1,4 @@
-# Learning
+# Frosty Friday
 
-The purpose of this repository is to keep code for various personal learning and training projects.
+Personal solutions to the Frosty Friday challenges
+https://frostyfriday.org/
